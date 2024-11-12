@@ -1,0 +1,101 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Huy Vu Le
+
+#jobtitle: "Research Assistant, Development and Policies Research Center (DEPOCEN)"
+#address: "Ton That Thiep · Ba Dinh · Ha Noi, Viet Nam"
+#fontawesome: no
+email: huy.le@depocen.org
+# github: huymaeco
+# twitter: Lê Huy 
+#osf: "Enter 5 digit osf string here"
+web: huymaeco.github.io
+updated: yes
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: black
+urlcolor: blue
+---
+
+# Employment
+
+- *Research Assistant,* Development and Policies Research Center (DEPOCEN) \hfill Mar.2024-
+
+- *Coordinator,* AVSE Global \hfill oct.2023-
+
+- *Collaborator,* Mekong Development Research Institute (MDRI) \hfill Oct.2023-Jan.2024
+
+- *Research Intern,* Vietnam institute for Economics and Policy \hfill Jun.2023-Oct.2023 \newline Research (VEPR)
+
+# Education
+
+- *B.A. in International Economic*, Foreign Trade University \hfill 2024 \newline Highest Thesis Score
+
+# Working Papers 
+
+- "Measuring the Impact of COVID-19 and Government Policy Responses on Trade Flow: The Case of ASEAN Countries" *(with Vy Tuong Phan and Viet Quoc Nguyen)*
+
+- "Superstar ESG firm in Vietnam: Does it really matter?" *(with Vy Tuong Phan)*
+
+- "A Machine Learning Approach to Predict Well-being Index in Vietnam from Satellite and Survey Data" *(with Vy Tuong Phan)*
+
+- "Special Economic Zones, Air Pollution and Developement: 20 Years of Evidence from Vietnam" *(with Vy Tuong Phan and Manh Duc Doan)*
+
+- "How does climate change affect health expenditure? A natural regression discontinuity design at Bach Ma mountain" *(with Thanh Le and Cam Anh Pham)*
+
+- "The affordability of tobacco products in Viet Nam: Findings from increased tobacco taxes" *(with Ngoc-Minh Nguyen and Anh Ngoc Nguyen)*
+
+- "Eating with the Seasons: How Temperature Shapes Our Plates" *(with Hong Ha Tran)*
+
+<!-- # Research Interests -->
+
+<!-- - Labor Economics, Criminal Legal System, Law and Economics, Inequality, Economic History -->
+
+# Book Chapter
+
+- "A Practical Guide: Trade Policy Analysis" *(Vietnamese Translation from "A Practical Guide to Trade Policy Analysis")*
+
+- "Step by step practice quantitative methods in social science research" *(ForthComing)*
+
+# Awards, Grants, Fellowships
+
+- Third prize in student science research competition 2023 (Vietnam) \hfill 2023
+- First prize in student science research competition 2023 (Foreign Trade University) \hfill 2023
+- Economic fiel of Euréka Science Prize (Vietnam) \hfill 2023
+
+# Professional Activities
+## Conference Presentations
+
+- *2024*: Vietnam Economist Annual Meeting (VEAM)
+- *2024*: Vietnam Symposium in Supply Chain Management (VSSCM)
+- *2023*: Vietnam Economist Annual Meeting (VEAM)
+- *2023*: WTO-Chair International Conferrence (Public governance & social innovation in the re-globalization context)
+- *2023*: Vietnam Symposium in Supply Chain Management (VSSCM)
+- *2022*: Vietnam Economist Annual Meeting (VEAM)
+- *2022*: WTO-Chair International Conferrence (Technological advancement and the new context for international trade and investment)
+
+# Teaching 
+- *Teaching Assistant*, Impact Evaluation, Foreign Trade University \hfill 2023-2024
+
+# Skill
+- *Language*: English (Upper Intermediate), Vietnamese (Native)
+- *Software*: STATA (Proficient), QGIS (Proficient), Python, R
+
+
+
+
+
+
+
+
+
